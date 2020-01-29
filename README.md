@@ -1,4 +1,5 @@
 ![logo](https://i.imgur.com/8FuTSYt.png =250x) 
+<img src="https://i.imgur.com/8FuTSYt.png" alt="VENTRONIK logo" width="200"/>
 # Style Guide
 
 ## Mission Statement
