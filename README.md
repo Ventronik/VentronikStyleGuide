@@ -1,4 +1,4 @@
-![VENTRONIK logo](https://imgur.com/a/ac5zYVa) 
+![logo](https://i.imgur.com/8FuTSYt.png) 
 # Style Guide
 
 ## Mission Statement
