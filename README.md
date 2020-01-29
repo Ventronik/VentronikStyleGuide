@@ -1,5 +1,4 @@
-<img src="https://i.imgur.com/8FuTSYt.png" alt="VENTRONIK logo" width="300"/>
-# Style Guide
+# <img src="https://i.imgur.com/8FuTSYt.png" alt="VENTRONIK logo" width="400"/> Style Guide
 
 ## Mission Statement
 
