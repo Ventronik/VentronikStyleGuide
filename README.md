@@ -15,7 +15,7 @@ This style guide is to record decisions about my style in a single source of tru
 The core color palette is 4 colors: Dark Blue #0c151b, Light Blue #266b85, White #feffff, and Orange #f05e32. Gray #A9BABC is to be used sparingly and is not officially a color part of the main palette. It is to be used instead of red, for site interactions that would be similar to a 'cancel', 'reject', or error.
 
 Dark Blue is to be used as the core background. Light blue is meant to be used as the focused background, or smaller background. White is for text and foreground. Orange is meant to be used sparingly and for flavor.
-![VENTRONIK Color Palette](https://imgur.com/a/T6NfgUx)
+[Imgur](https://i.imgur.com/JGj9nrE.png)
 
 ## Typography
 
