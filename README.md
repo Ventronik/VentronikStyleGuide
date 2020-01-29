@@ -12,7 +12,12 @@ This style guide is to record decisions about my style in a single source of tru
 
 ## Color Palette
 
-The core color palette is 4 colors: Dark Blue #0c151b, Light Blue #266b85, White #feffff, and Orange #f05e32. Gray #A9BABC is to be used sparingly and is not officially a color part of the main palette. It is to be used instead of red, for site interactions that would be similar to a 'cancel', 'reject', or error.
+The core color palette is 4 colors: 
+1. Dark Blue #0c151b
+2. Light Blue #266b85
+3. White #feffff
+4. and Orange #f05e32
+5. Gray #A9BABC 
 
 ![Imgur](https://i.imgur.com/JGj9nrE.png)
 
