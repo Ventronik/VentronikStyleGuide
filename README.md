@@ -1,4 +1,4 @@
-![logo](https://i.imgur.com/8FuTSYt.png) 
+![logo](https://i.imgur.com/8FuTSYt.png =250x) 
 # Style Guide
 
 ## Mission Statement
