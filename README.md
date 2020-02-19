@@ -28,5 +28,9 @@ Dark Blue is to be used as the core background. Light blue is meant to be used a
 The VENTRONIK name should always be capitalized. The official VENTRONIK font is SciFi Adventure created by David Flood. 
 
 
+![Imgur](https://i.imgur.com/Bpvm78U.png)
+![Imgur](https://i.imgur.com/JGj9nrE.png)
+![Imgur](https://i.imgur.com/JGj9nrE.png)
+
 ## Tone
 
