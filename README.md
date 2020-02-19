@@ -31,6 +31,7 @@ The VENTRONIK name should always be capitalized. The official VENTRONIK font is 
 ![Imgur](https://i.imgur.com/Bpvm78U.png)
 ![Imgur](https://i.imgur.com/7Zh4drv.png)
 ![Imgur](https://i.imgur.com/v8EJmAk.png)
+<img src="https://i.imgur.com/8FuTSYt.png" alt="VENTRONIK logo" width="400"/>
 
 ## Tone
 
