@@ -12,7 +12,7 @@ This style guide is to record decisions about my style in a single source of tru
 
 ## Color Palette
 
-The core color palette is 4 colors: 
+The core color palette is 5 colors: 
 1. Dark Blue #0c151b
 2. Light Blue #266b85
 3. White #feffff
