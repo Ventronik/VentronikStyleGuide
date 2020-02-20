@@ -31,8 +31,8 @@ Header text should presented in \____ font
 Body text should presented in \____ font 
 
 
-<img src="https://i.imgur.com/Bpvm78U.png" alr="VENTRONIK splash" width="400" />
 <img src="https://i.imgur.com/8FuTSYt.png" alt="VENTRONIK logo" width="400"/>
+The free standing VENTRONIK name mark is to be used before a project name and should be near the top of any site I make either a header or before the project name.
 
 ## Tone
 
@@ -40,3 +40,7 @@ Body text should presented in \____ font
 My online personality will be represented with either a picture of my live self, for more professional site like LinkedIn, Github, and corporate bios. Otherwise I will use the following Owlopes to hide behind for websites, as well as gaming, and other profiles.
 <img src="https://i.imgur.com/7Zh4drv.png" alt="VENTRONIK Owlope Orange" width="200" />
 <img src="https://i.imgur.com/v8EJmAk.png" alt="VENTRONIK Owlope" width="200" />
+
+## Splash Image
+<img src="https://i.imgur.com/Bpvm78U.png" alr="VENTRONIK splash" width="800" />
+The VENTRONIK splash image is meant for banners above avatars, and landing pages. It is an excellent filler image and brand mark.
