@@ -31,8 +31,7 @@ Header text should presented in \____ font
 Body text should presented in \____ font 
 
 
-![Imgur](https://i.imgur.com/Bpvm78U.png)
-![Imgur](https://i.imgur.com/Bpvm78U.png)
+<img src="https://i.imgur.com/Bpvm78U.png" alr="VENTRONIK splash" width="400" />
 <img src="https://i.imgur.com/8FuTSYt.png" alt="VENTRONIK logo" width="400"/>
 
 ## Tone
