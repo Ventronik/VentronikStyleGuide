@@ -6,7 +6,7 @@ VENTRONIK is about coding, coding well, and coding frequently. Creating new and 
 
 ## Purpose of this guide
 
-The VENTRONIK brand is my formal, online, professional representation of myself in the cyberspace. All projects going forward will be adhering to this standard. The online presence of Dustin Ruskell, as prepresented by the username VENTRONIK is to differentiate my development projects both personal and professional from other aspects of my personal life. As development of new projects becomes more frequent having predetermined 
+The VENTRONIK brand is my formal, online, professional representation of myself in the cyberspace. All projects going forward will be adhering to this standard. The online presence of Dustin Ruskell, as prepresented by the username VENTRONIK is to differentiate my development projects both personal and professional from other aspects of my personal life. As development of new projects becomes more frequent having predetermined styles and palette will make future styling go more smoothly and prevent project hangups and delays caused by aesthetic and styling decisions.
 
 This style guide is to record decisions about my style in a single source of truth for further references without having to store all of this information in my head.
 
@@ -27,6 +27,9 @@ Dark Blue is to be used as the core background. Light blue is meant to be used a
 
 The VENTRONIK name should always be capitalized. The official VENTRONIK font is SciFi Adventure created by David Flood. 
 
+Header text should presented in \____ font 
+Body text should presented in \____ font 
+
 
 ![Imgur](https://i.imgur.com/Bpvm78U.png)
 ![Imgur](https://i.imgur.com/7Zh4drv.png)
@@ -35,3 +38,5 @@ The VENTRONIK name should always be capitalized. The official VENTRONIK font is 
 
 ## Tone
 
+## Avatar
+My online personality will be represented with either a picture of my live self, for more professional site like LinkedIn, Github, and corporate bios. Otherwise I will use the following Owlopes to hide behind for websites, as well as gaming, and other profiles.
