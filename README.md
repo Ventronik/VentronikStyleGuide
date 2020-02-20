@@ -2,8 +2,6 @@
 
 ## Mission Statement
 
-<p style=> BEANS</p>
-
 VENTRONIK is about coding, coding well, and coding frequently. Creating new and interesting projects to advance my own education with an ultimate aim to begin creating projects to better society as I attain mastery. The coding of VENTRONIK is meant to be shared, to be used, and to be appreciated. As personal projects and coding become more advanced the ultimate aim is to pursue and develop projects in accordance with my values and ideals. 
 
 ## Purpose of this guide
