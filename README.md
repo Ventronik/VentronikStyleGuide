@@ -40,3 +40,5 @@ Body text should presented in \____ font
 
 ## Avatar
 My online personality will be represented with either a picture of my live self, for more professional site like LinkedIn, Github, and corporate bios. Otherwise I will use the following Owlopes to hide behind for websites, as well as gaming, and other profiles.
+<img src="https://i.imgur.com/Bpvm78U.png" alt="VENTRONIK Owlope" width="400" />
+<img src="https://i.imgur.com/7Zh4drv.png" alt="VENTRONIK Owlope" width="400" />
